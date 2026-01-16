@@ -1,5 +1,4 @@
-# Security Integrity v9.0
+# Security Integrity v10.2
 
-## Project: AES Streamer
-- Logic: `pycryptodome`
-- Status: `Verified`
+## Project: AES Crypto Tool
+Simple Python script for encryption.
