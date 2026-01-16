@@ -1,7 +1,7 @@
-# Crypto Project v2.0
+# Crypto Project Documentation
 
-## Project Overview
-This repository contains a simple Ethereum address generator.
-- Modular architecture
-- High performance
-- No external dependencies
+## Overview
+This script provides AES-CBC encryption. It is used for internal secure messaging at Horizon Claws.
+- Key: 256-bit
+- Mode: CBC
+- Library: pycryptodome
