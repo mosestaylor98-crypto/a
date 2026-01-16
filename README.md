@@ -1,4 +1,4 @@
-# Crypto Project Audit
+# Crypto Project Security Audit
 
-## Info
-AES-256 Encryption tool for Horizon Claws.
+## Solana Block Streamer
+This tool connects to Solana mainnet-beta via WebSockets.
